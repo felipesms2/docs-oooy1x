@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-6uqn68.haybaleman.co.nz/sitemap.xml
